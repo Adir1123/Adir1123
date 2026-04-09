@@ -7,9 +7,9 @@ I build AI-powered automation tools — things like lead generation pipelines th
 #### Tools & Tech
 
 - TypeScript, Python, SQL
-- Supabase, Trigger.dev, Apify, Vercel
+- Supabase, Trigger.dev, Apify, Vercel, Railway
 - Claude API (Anthropic), OpenAI API, Prompt Engineering
-- AI Agents, Claude Code, Codex, AI SDK, LangChain
+- AI Agents, Claude Code, Codex, n8n
 
 #### A Bit About Me
 
