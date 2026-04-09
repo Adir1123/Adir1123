@@ -13,10 +13,10 @@ I build AI-powered automation tools — things like lead generation pipelines th
 
 #### A Bit About Me
 
-- 🔨 Currently building [Family Lawyer Lead Scraper](https://github.com/Adir1123/family_lawyer_scraper) — an AI-powered lead generation pipeline
-- 🤖 I enjoy working with AI APIs and designing smart automation workflows
-- 📚 Always learning — currently deep into AI engineering and cloud infrastructure
-- 💬 I like building things that are useful, practical, and actually work
+- 🔨 Currently building [Family Lawyer Lead Scraper](https://github.com/Adir1123/family_lawyer_scraper), an AI-powered lead generation pipeline
+- 🤖 I enjoy working with AI and designing smart automation workflows
+- 📚 Always learning. Currently deep into AI engineering and AI Agents
+- 💬 I love building things that help businesses optimize their time and make more money.
 
 #### Let's Connect
 
