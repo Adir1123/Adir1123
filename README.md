@@ -6,10 +6,10 @@ I build AI-powered automation tools — things like lead generation pipelines th
 
 #### Tools & Tech
 
-TypeScript, Python, SQL
-Next.js, React, Tailwind CSS, shadcn/ui
-Supabase, Trigger.dev, Apify, Vercel
-Claude API (Anthropic), Prompt Engineering
+- TypeScript, Python, SQL
+- Next.js, React, Tailwind CSS, shadcn/ui
+- Supabase, Trigger.dev, Apify, Vercel
+- Claude API (Anthropic), Prompt Engineering
 
 #### A Bit About Me
 
