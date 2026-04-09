@@ -1,32 +1,24 @@
-# Hey, I'm Adir Gabay
+## Hey there 👋
 
-**Computer Science student (3rd year) at The College of Management, building AI-powered automation tools.**
+I'm Adir, a Computer Science student (3rd year) at The College of Management.
 
-I design and build end-to-end systems that combine AI, web scraping, and modern cloud infrastructure to solve real business problems.
+I build AI-powered automation tools — things like lead generation pipelines that scrape data, score it with AI, and serve results through real-time dashboards. I like turning messy problems into clean, working systems.
 
----
+#### Tools & Tech
 
-### What I'm Building
+TypeScript, Python, SQL
+Next.js, React, Tailwind CSS, shadcn/ui
+Supabase, Trigger.dev, Apify, Vercel
+Claude API (Anthropic), Prompt Engineering
 
-**[Family Lawyer Lead Scraper](https://github.com/Adir1123/family_lawyer_scraper)** — An automated lead generation pipeline that scrapes Facebook groups, uses Claude AI to score and qualify leads, and serves them through a real-time dashboard. Built with Next.js, Supabase, Trigger.dev, and deployed on Vercel.
+#### A Bit About Me
 
----
+- 🔨 Currently building [Family Lawyer Lead Scraper](https://github.com/Adir1123/family_lawyer_scraper) — an AI-powered lead generation pipeline
+- 🤖 I enjoy working with AI APIs and designing smart automation workflows
+- 📚 Always learning — currently deep into AI engineering and cloud infrastructure
+- 💬 I like building things that are useful, practical, and actually work
 
-### Tools I Work With
+#### Let's Connect
 
-**Languages:** TypeScript, Python, SQL
-
-**AI:** Claude API (Anthropic), Prompt Engineering, AI-driven data pipelines
-
-**Frontend:** Next.js, React, Tailwind CSS, shadcn/ui
-
-**Backend & Infra:** Supabase (PostgreSQL), Trigger.dev, Apify, Vercel
-
-**Other:** Git, REST APIs, Zod, Node.js
-
----
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adir-gabay-555771365)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adirgabay9@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adir-gabay-555771365)
+- 📫 adirgabay9@gmail.com
